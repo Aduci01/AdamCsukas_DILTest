@@ -1,0 +1,436 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "499A26BD-3D39-468A-B379-0585B6B52858"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "4116FE5B-99E8-4706-BA91-4B93E2B2020F"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Task2/DrawViewModel.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "14"
+            endingLineNumber = "14"
+            landmarkName = "finishCurrentLine()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "38D85808-8415-4FE2-A4DE-74194793CDF6"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Task2/DrawViewModel.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "15"
+            endingLineNumber = "15"
+            landmarkName = "finishCurrentLine()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "84F80EA1-D334-462D-AE67-67005CB03215"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Task2/DrawViewModel.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "18"
+            endingLineNumber = "18"
+            landmarkName = "finishCurrentLine()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "84F80EA1-D334-462D-AE67-67005CB03215 - 3f812c53e01a1886"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(1) suspend resume partial function for closure #1 @Sendable () async -&gt; () in Task2.DrawViewModel.finishCurrentLine() -&gt; ()"
+                  moduleName = "Task2"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/adamcs/others/iOS/Task2/Task2/DrawViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "16"
+                  endingLineNumber = "16"
+                  offsetFromSymbolStart = "56">
+               </Location>
+               <Location
+                  uuid = "84F80EA1-D334-462D-AE67-67005CB03215 - da540cc3f38ac9ec"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(2) await resume partial function for closure #1 @Sendable () async -&gt; () in Task2.DrawViewModel.finishCurrentLine() -&gt; ()"
+                  moduleName = "Task2"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/adamcs/others/iOS/Task2/Task2/DrawViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "16"
+                  endingLineNumber = "16"
+                  offsetFromSymbolStart = "40">
+               </Location>
+               <Location
+                  uuid = "84F80EA1-D334-462D-AE67-67005CB03215 - 59f4444f7a235488"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(3) suspend resume partial function for closure #1 @Sendable () async -&gt; () in Task2.DrawViewModel.finishCurrentLine() -&gt; ()"
+                  moduleName = "Task2"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/adamcs/others/iOS/Task2/Task2/DrawViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "16"
+                  endingLineNumber = "16"
+                  offsetFromSymbolStart = "28">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "82F9418F-7088-4241-9E38-6768159BA51D"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Task2/DrawViewModel.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "11"
+            endingLineNumber = "11"
+            landmarkName = "onDragGesture(_:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "FDBC6D4B-3B85-41BE-A7D7-94969A7B6FE3"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Task2/ViewModels/DrawViewModel.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "45"
+            endingLineNumber = "45"
+            landmarkName = "drawGhostLine(points:idx:delay:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "FDBC6D4B-3B85-41BE-A7D7-94969A7B6FE3 - 1b9f4b6f522186b8"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(1) suspend resume partial function for Task2.DrawViewModel.drawGhostLine(points: Swift.Array&lt;Task2.TimeStampPoint&gt;, idx: Swift.Int, delay: Swift.Double) async -&gt; ()"
+                  moduleName = "Task2"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/adamcs/others/iOS/Task2/Task2/ViewModels/DrawViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "42"
+                  endingLineNumber = "42"
+                  offsetFromSymbolStart = "100">
+               </Location>
+               <Location
+                  uuid = "FDBC6D4B-3B85-41BE-A7D7-94969A7B6FE3 - 9019158366d60172"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(2) await resume partial function for Task2.DrawViewModel.drawGhostLine(points: Swift.Array&lt;Task2.TimeStampPoint&gt;, idx: Swift.Int, delay: Swift.Double) async -&gt; ()"
+                  moduleName = "Task2"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/adamcs/others/iOS/Task2/Task2/ViewModels/DrawViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "42"
+                  endingLineNumber = "42"
+                  offsetFromSymbolStart = "40">
+               </Location>
+               <Location
+                  uuid = "FDBC6D4B-3B85-41BE-A7D7-94969A7B6FE3 - 171a0d8bccbd1d03"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(6) suspend resume partial function for Task2.DrawViewModel.drawGhostLine(points: Swift.Array&lt;Task2.TimeStampPoint&gt;, idx: Swift.Int, delay: Swift.Double) async -&gt; ()"
+                  moduleName = "Task2"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/adamcs/others/iOS/Task2/Task2/ViewModels/DrawViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "42"
+                  endingLineNumber = "42"
+                  offsetFromSymbolStart = "112">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "898238E7-0CA6-41FA-AB7E-02664BE38FB2"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Task2/ViewModels/DrawViewModel.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "48"
+            endingLineNumber = "48"
+            landmarkName = "drawGhostLine(points:idx:delay:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "898238E7-0CA6-41FA-AB7E-02664BE38FB2 - 4d06cafe3d20427b"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(3) suspend resume partial function for Task2.DrawViewModel.drawGhostLine(points: Swift.Array&lt;Task2.TimeStampPoint&gt;, idx: Swift.Int, delay: Swift.Double) async -&gt; ()"
+                  moduleName = "Task2"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/adamcs/others/iOS/Task2/Task2/ViewModels/DrawViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "45"
+                  endingLineNumber = "45"
+                  offsetFromSymbolStart = "476">
+               </Location>
+               <Location
+                  uuid = "898238E7-0CA6-41FA-AB7E-02664BE38FB2 - 7eae4a4c9c3e7fb9"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(5) suspend resume partial function for Task2.DrawViewModel.drawGhostLine(points: Swift.Array&lt;Task2.TimeStampPoint&gt;, idx: Swift.Int, delay: Swift.Double) async -&gt; ()"
+                  moduleName = "Task2"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/adamcs/others/iOS/Task2/Task2/ViewModels/DrawViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "45"
+                  endingLineNumber = "45"
+                  offsetFromSymbolStart = "416">
+               </Location>
+               <Location
+                  uuid = "898238E7-0CA6-41FA-AB7E-02664BE38FB2 - 171a0d8bccbd1d9e"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(6) suspend resume partial function for Task2.DrawViewModel.drawGhostLine(points: Swift.Array&lt;Task2.TimeStampPoint&gt;, idx: Swift.Int, delay: Swift.Double) async -&gt; ()"
+                  moduleName = "Task2"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/adamcs/others/iOS/Task2/Task2/ViewModels/DrawViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "45"
+                  endingLineNumber = "45"
+                  offsetFromSymbolStart = "496">
+               </Location>
+               <Location
+                  uuid = "898238E7-0CA6-41FA-AB7E-02664BE38FB2 - afd5cdd37f3c3bff"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(7) suspend resume partial function for Task2.DrawViewModel.drawGhostLine(points: Swift.Array&lt;Task2.TimeStampPoint&gt;, idx: Swift.Int, delay: Swift.Double) async -&gt; ()"
+                  moduleName = "Task2"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/adamcs/others/iOS/Task2/Task2/ViewModels/DrawViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "45"
+                  endingLineNumber = "45"
+                  offsetFromSymbolStart = "436">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "7CAB815B-E086-4A18-BE97-EE4111392676"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Task2/ViewModels/DrawViewModel.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "69"
+            endingLineNumber = "69"
+            landmarkName = "DrawViewModel"
+            landmarkType = "3">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "66940B71-AD2F-4CB4-BED0-69444C912F39"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Task2/ViewModels/DrawViewModel.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "96"
+            endingLineNumber = "96"
+            landmarkName = "DrawViewModel"
+            landmarkType = "3">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "E2EA2BD8-4CCE-4BE5-950A-31510BD69DBC"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Task2/ViewModels/DrawViewModel.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "94"
+            endingLineNumber = "94"
+            landmarkName = "DrawViewModel"
+            landmarkType = "3">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "1DBB5727-E1AB-4B51-9BAA-ACE61401A8BE"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Task2/ViewModels/DrawViewModel.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "66"
+            endingLineNumber = "66"
+            landmarkName = "DrawViewModel"
+            landmarkType = "3">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "CE2AB90C-DAF8-46A5-A7C7-BA29F647D4D1"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Task2/ViewModels/DrawViewModel.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "73"
+            endingLineNumber = "73"
+            landmarkName = "DrawViewModel"
+            landmarkType = "3">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "5C3E3E4D-F19A-4B42-986E-9318A0D4E1F4"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Task2/ViewModels/DrawViewModel.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "83"
+            endingLineNumber = "83"
+            landmarkName = "DrawViewModel"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  uuid = "5C3E3E4D-F19A-4B42-986E-9318A0D4E1F4 - 71fa85d7ac3ac22f"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Int, Task2.Line) -&gt; () in Task2.DrawViewModel.eraseLine(points: Swift.Array&lt;Task2.TimeStampPoint&gt;) async -&gt; ()"
+                  moduleName = "Task2"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/adamcs/others/iOS/Task2/Task2/ViewModels/DrawViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "80"
+                  endingLineNumber = "80"
+                  offsetFromSymbolStart = "1408">
+               </Location>
+               <Location
+                  uuid = "5C3E3E4D-F19A-4B42-986E-9318A0D4E1F4 - a6962276867a427d"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #2 (Swift.Optional&lt;__C.CGPoint&gt;) -&gt; Swift.Optional&lt;__C.CGPoint&gt; in closure #1 (Swift.Int, Task2.Line) -&gt; () in Task2.DrawViewModel.eraseLine(points: Swift.Array&lt;Task2.TimeStampPoint&gt;) async -&gt; ()"
+                  moduleName = "Task2"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/adamcs/others/iOS/Task2/Task2/ViewModels/DrawViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "80"
+                  endingLineNumber = "80"
+                  offsetFromSymbolStart = "56">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "D06411CB-817B-4DDA-A3FA-4A43EBA088BE"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Task2/ViewModels/DrawViewModel.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "85"
+            endingLineNumber = "85"
+            landmarkName = "DrawViewModel"
+            landmarkType = "3">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "68206910-0F37-4804-954A-B82572400F80"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Task2/ViewModels/DrawViewModel.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "91"
+            endingLineNumber = "91"
+            landmarkName = "DrawViewModel"
+            landmarkType = "3">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "24A375CC-9AB1-4A6B-8F2E-BDE1E8595929"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Task2/ViewModels/DrawViewModel.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "65"
+            endingLineNumber = "65"
+            landmarkName = "DrawViewModel"
+            landmarkType = "3">
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
